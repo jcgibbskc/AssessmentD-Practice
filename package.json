@@ -1,0 +1,25 @@
+{
+  "name": "assessmentd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgibbskc/AssessmentD-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jcgibbskc/AssessmentD-Practice/issues"
+  },
+  "homepage": "https://github.com/jcgibbskc/AssessmentD-Practice#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "csv-stringify": "^6.7.0"
+  }
+}
